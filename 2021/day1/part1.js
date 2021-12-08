@@ -9,4 +9,4 @@ input.map((i) => {
     prev = curr;
 });
 
-console.log(totalIncreased);
+console.log(`increased ${totalIncreased} times`);
