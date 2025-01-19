@@ -1,2 +1,2 @@
 # advent-of-code
-Keeps track of all my advent of code solutions
+Keeps track of all of my advent of code solutions
